@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Bitcoin Exchange</string>
+    <string name="converter_hint">ใส่จำนวนเงินเพื่อแปลงเป็น BTC</string>
+    <string name="main_type_currency_label">พิมพ์ค่าเงินที่ต้องการอัตราแลกเปลี่ยน</string>
+    <string name="main_exchange_label">อัตราแลกเปลี่ยน</string>
+    <string-array name="currency">
+        <item>ALL</item>
+        <item>USD</item>
+        <item>GBP</item>
+        <item>EUR</item>
+    </string-array>
+    <string name="converter_all_label">ALL</string>
+    <string name="converter_usd_label">USD</string>
+    <string name="converter_gbp_label">GBP</string>
+    <string name="converter_eur_label">EUR</string>
+    <string name="converter_to_btc">%s BTC</string>
+</resources>
